@@ -24,6 +24,7 @@ Cuando una persona se acerca al muñeco de nieve, el sensor PIR detecta el movim
             Código del proyecto (.ino)
 
 🔌 Conexiones eléctricas
+
             | Componente | Pin ESP32 | Descripción             |
             | ---------- | --------- | ----------------------- |
             | PIR VCC    | 3V3       | Alimentación del sensor |
