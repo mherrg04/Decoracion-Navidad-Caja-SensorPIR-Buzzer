@@ -73,5 +73,5 @@ Incorporar un botón para cambiar modos
 Usar batería externa
 Añadir control de volumen
 
-*IMPORTANTE*
-Recuerda divertirte mientras lo montas.
+*IMPORTANTE
+Recuerda divertirte mientras lo montas.*
