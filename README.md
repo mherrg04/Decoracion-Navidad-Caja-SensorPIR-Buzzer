@@ -17,7 +17,7 @@ Cuando una persona se acerca al muñeco de nieve, el sensor PIR detecta el movim
 - Impresión 3D:
             Carcasa impresa en 3D (caja + tapa) 
             Figura decorativa de muñeco de nieve (STL)
-            link(Caja y muñeco juntos): 
+            link(Caja y muñeco juntos): https://www.printables.com/model/1554673-modelo-de-caja-interactiva-navidena
 - Software
             Visual studio con plugin platformIO
             Drivers del ESP32 instalados
