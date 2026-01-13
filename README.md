@@ -36,29 +36,42 @@ Cuando una persona se acerca al muñeco de nieve, el sensor PIR detecta el movim
 💻 Carga del código
 
 1 - Abre Visual studio
+
 2 - Selecciona: Placa: ESP32 Dev Module
+
 3 - Revisa el Puerto que sea correcto
+
 4 - Copia el código del proyecto de este repo y pegalo en el main.cpp
+
 5 - Compila y súbelo a la placa
+
 6 - Abre nueva terminal para comprobar mensajes de estado
+
 7 - Comprueba el funcionamiento correcto
 
 🧩 Montaje del proyecto
 
 1 - Coloca la ESP32 en el fondo de la carcasa.
+
 2 - Fija el sensor PIR alineándolo con el orificio grande frontal que asome un poco por fuera de la caja si es necesario.
+
 3 - Coloca el buzzer detrás del orificio pequeño frontal que asome un poco un poco por fuera de la caja si es necesario.
+
 4 - Organiza los cables para que entre mejor.
+
 5 - Cierra la carcasa con la tapa superior.
+
 6 - Alinea el puerto USB C de la ESP32 a la ranura inferior de la caja.
 
 ▶️ Funcionamiento
 
 1 - Conecta el ESP32 a la alimentación.
+
 2 - Espera unos segundos a que el sensor PIR se estabilice.
-3 - Al detectar movimiento:
-4 - Se reproduce un villancico aleatorio.
-5 - El sistema entra en espera hasta la siguiente detección.
+
+3 - Al detectar movimiento:Se reproduce un villancico aleatorio.
+
+4 - El sistema entra en espera hasta la siguiente detección.
 
 🎶 Villancicos incluidos
 
@@ -68,10 +81,10 @@ Cuando una persona se acerca al muñeco de nieve, el sensor PIR detecta el movim
 
 🔧 Posibles mejoras:
 
-Añadir LEDs RGB sincronizados con la música
-Incorporar un botón para cambiar modos
-Usar batería externa
-Añadir control de volumen
+- Añadir LEDs RGB sincronizados con la música
+- Incorporar un botón para cambiar modos
+- Usar batería externa
+- Añadir control de volumen
 
-*IMPORTANTE
+*IMPORTANTE: 
 Recuerda divertirte mientras lo montas.*
